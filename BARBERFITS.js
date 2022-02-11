@@ -3,8 +3,8 @@
 var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
-		{name:"BARBERFITS_atlas_1", frames: [[1214,0,470,710],[0,1186,502,810],[0,0,1212,1184],[504,1514,1335,291],[504,1186,1220,326]]},
-		{name:"BARBERFITS_atlas_2", frames: [[924,404,230,256],[1659,0,264,360],[1354,404,613,166],[1354,572,613,166],[0,1366,750,2],[1925,0,2,311],[1659,362,221,2],[0,1370,750,2],[1929,0,2,311],[1659,366,221,2],[1243,1060,557,166],[0,1358,1238,2],[1243,1228,557,166],[0,1060,1178,161],[0,1362,1238,2],[1354,740,570,124],[492,0,430,684],[1575,866,386,166],[0,897,1573,161],[0,0,490,652],[0,686,1352,209],[924,0,733,200],[924,202,733,200],[0,1223,1241,133]]}
+		{name:"barberfits_atlas_1", frames: [[0,1186,502,810],[1214,0,470,710],[0,0,1212,1184],[504,1514,1335,291],[504,1186,1220,326]]},
+		{name:"barberfits_atlas_2", frames: [[924,404,230,256],[1659,0,264,360],[1354,404,613,166],[1354,572,613,166],[0,1366,750,2],[1925,0,2,311],[1659,362,221,2],[0,1370,750,2],[1929,0,2,311],[1243,1060,557,166],[1659,366,221,2],[0,1358,1238,2],[0,1060,1178,161],[1243,1228,557,166],[0,1362,1238,2],[492,0,430,684],[1354,740,570,124],[1575,866,386,166],[0,897,1573,161],[0,686,1352,209],[924,0,733,200],[0,0,490,652],[924,202,733,200],[0,1223,1241,133]]}
 ];
 
 
@@ -139,203 +139,203 @@ lib.ssMetadata = [
 
 
 (lib.CachedBmp_17 = function() {
-	this.initialize(ss["BARBERFITS_atlas_2"]);
+	this.initialize(ss["barberfits_atlas_2"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_25 = function() {
-	this.initialize(ss["BARBERFITS_atlas_2"]);
+	this.initialize(ss["barberfits_atlas_2"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_22 = function() {
-	this.initialize(ss["BARBERFITS_atlas_2"]);
+	this.initialize(ss["barberfits_atlas_2"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_23 = function() {
-	this.initialize(ss["BARBERFITS_atlas_2"]);
+	this.initialize(ss["barberfits_atlas_2"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_12 = function() {
-	this.initialize(ss["BARBERFITS_atlas_2"]);
+	this.initialize(ss["barberfits_atlas_2"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_11 = function() {
-	this.initialize(ss["BARBERFITS_atlas_2"]);
+	this.initialize(ss["barberfits_atlas_2"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_10 = function() {
-	this.initialize(ss["BARBERFITS_atlas_2"]);
+	this.initialize(ss["barberfits_atlas_2"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_9 = function() {
-	this.initialize(ss["BARBERFITS_atlas_2"]);
+	this.initialize(ss["barberfits_atlas_2"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_8 = function() {
-	this.initialize(ss["BARBERFITS_atlas_2"]);
+	this.initialize(ss["barberfits_atlas_2"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_7 = function() {
-	this.initialize(ss["BARBERFITS_atlas_2"]);
+(lib.CachedBmp_14 = function() {
+	this.initialize(ss["barberfits_atlas_2"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_14 = function() {
-	this.initialize(ss["BARBERFITS_atlas_2"]);
+(lib.CachedBmp_7 = function() {
+	this.initialize(ss["barberfits_atlas_2"]);
 	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_4 = function() {
-	this.initialize(ss["BARBERFITS_atlas_2"]);
+	this.initialize(ss["barberfits_atlas_2"]);
 	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_13 = function() {
-	this.initialize(ss["BARBERFITS_atlas_2"]);
+(lib.CachedBmp_19 = function() {
+	this.initialize(ss["barberfits_atlas_2"]);
 	this.gotoAndStop(12);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_19 = function() {
-	this.initialize(ss["BARBERFITS_atlas_2"]);
+(lib.CachedBmp_13 = function() {
+	this.initialize(ss["barberfits_atlas_2"]);
 	this.gotoAndStop(13);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_2 = function() {
-	this.initialize(ss["BARBERFITS_atlas_2"]);
+	this.initialize(ss["barberfits_atlas_2"]);
 	this.gotoAndStop(14);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Bitmap8 = function() {
-	this.initialize(ss["BARBERFITS_atlas_1"]);
+(lib.Bitmap5 = function() {
+	this.initialize(ss["barberfits_atlas_1"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Bitmap9 = function() {
-	this.initialize(ss["BARBERFITS_atlas_2"]);
-	this.gotoAndStop(15);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.Bitmap5 = function() {
-	this.initialize(ss["BARBERFITS_atlas_1"]);
+(lib.Bitmap8 = function() {
+	this.initialize(ss["barberfits_atlas_1"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Bitmap7 = function() {
-	this.initialize(ss["BARBERFITS_atlas_2"]);
+	this.initialize(ss["barberfits_atlas_2"]);
+	this.gotoAndStop(15);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.Bitmap9 = function() {
+	this.initialize(ss["barberfits_atlas_2"]);
 	this.gotoAndStop(16);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Bitmap4 = function() {
-	this.initialize(ss["BARBERFITS_atlas_1"]);
+	this.initialize(ss["barberfits_atlas_1"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_6 = function() {
-	this.initialize(ss["BARBERFITS_atlas_2"]);
+	this.initialize(ss["barberfits_atlas_2"]);
 	this.gotoAndStop(17);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_16 = function() {
-	this.initialize(ss["BARBERFITS_atlas_2"]);
+	this.initialize(ss["barberfits_atlas_2"]);
 	this.gotoAndStop(18);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_24 = function() {
-	this.initialize(ss["BARBERFITS_atlas_2"]);
+(lib.CachedBmp_21 = function() {
+	this.initialize(ss["barberfits_atlas_2"]);
 	this.gotoAndStop(19);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_21 = function() {
-	this.initialize(ss["BARBERFITS_atlas_2"]);
+(lib.CachedBmp_5 = function() {
+	this.initialize(ss["barberfits_atlas_2"]);
 	this.gotoAndStop(20);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_5 = function() {
-	this.initialize(ss["BARBERFITS_atlas_2"]);
+(lib.CachedBmp_24 = function() {
+	this.initialize(ss["barberfits_atlas_2"]);
 	this.gotoAndStop(21);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_3 = function() {
-	this.initialize(ss["BARBERFITS_atlas_2"]);
+	this.initialize(ss["barberfits_atlas_2"]);
 	this.gotoAndStop(22);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_1 = function() {
-	this.initialize(ss["BARBERFITS_atlas_2"]);
+	this.initialize(ss["barberfits_atlas_2"]);
 	this.gotoAndStop(23);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_18 = function() {
-	this.initialize(ss["BARBERFITS_atlas_1"]);
+	this.initialize(ss["barberfits_atlas_1"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_20 = function() {
-	this.initialize(ss["BARBERFITS_atlas_1"]);
+	this.initialize(ss["barberfits_atlas_1"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
@@ -923,8 +923,8 @@ lib.properties = {
 	opacity: 1.00,
 	manifest: [
 		{src:"images/CachedBmp_15.png", id:"CachedBmp_15"},
-		{src:"images/BARBERFITS_atlas_1.png", id:"BARBERFITS_atlas_1"},
-		{src:"images/BARBERFITS_atlas_2.png", id:"BARBERFITS_atlas_2"}
+		{src:"images/barberfits_atlas_1.png", id:"barberfits_atlas_1"},
+		{src:"images/barberfits_atlas_2.png", id:"barberfits_atlas_2"}
 	],
 	preloads: []
 };
